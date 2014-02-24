@@ -1,0 +1,41 @@
+10
+
+dir
+250
+svn+ssh://siddhartha@208.75.163.9:1923/home/siddhartha/sidscratch/currentProjectsTrevor/SystematicReviewer_java/src/edu/pitt/search
+svn+ssh://siddhartha@208.75.163.9:1923/home/siddhartha/sidscratch/currentProjectsTrevor
+
+
+
+2011-01-15T17:04:53.055438Z
+250
+siddhartha
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2ada62f7-d572-4be1-aa25-d81ee0616ac8
+
+
+
+
+
+
+0
+
+lucene
+dir
+
+semanticvectors
+dir
+

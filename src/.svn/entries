@@ -1,0 +1,47 @@
+10
+
+dir
+249
+svn+ssh://siddhartha@208.75.163.9:1923/home/siddhartha/sidscratch/currentProjectsTrevor/SystematicReviewer_java/src
+svn+ssh://siddhartha@208.75.163.9:1923/home/siddhartha/sidscratch/currentProjectsTrevor
+
+
+
+2011-01-14T18:34:32.392949Z
+249
+siddhartha
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2ada62f7-d572-4be1-aa25-d81ee0616ac8
+
+
+
+
+
+
+0
+
+edu
+dir
+
+main
+dir
+
+medline
+dir
+
+util
+dir
+
